@@ -14,8 +14,10 @@
 1. [X] Worldwide Todo List part 9
 1. [X] Worldwide Todo List part 10
 1. [X] Worldwide Todo List: hardmode
-1. [] Worldwide Todo List: hardmode 2
+1. [X] Worldwide Todo List: hardmode 2
 1. [X] Worldwide Todo List: hardmode 3
 
 ## License
     Copyright [2018] [sushma]
+
+
